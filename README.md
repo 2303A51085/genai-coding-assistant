@@ -1,1 +1,3 @@
-# genai-coding-assistant
+# CodeMentor AI
+
+GenAI-powered Coding Interview Assistant.
